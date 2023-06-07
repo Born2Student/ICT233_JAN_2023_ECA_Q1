@@ -13,3 +13,5 @@ and calculation operations.
 operations.
 + Conduct visualization in an appropriate way.
 + Structure code in appropriate methods (functions), looping and conditions.
+
+**Perform a data analysis of the data from the titanic.csv dataset by answering the following the questions. Take note that the questions are stated in the IPYNB file. **
