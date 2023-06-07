@@ -2,7 +2,7 @@
 ICT233 Data Programming January 2023 Semester End-Of-Course (ECA) Question 1
 
 Objectives:
-• Understand dataset with Data Scientist mindset.
++ Understand dataset with Data Scientist mindset.
 • Exposure to real-world dataset analysis.
 • Understand and design computation logic and routines in Python.
 • Assess use of Pandas and Dataframes to perform extract, load, transformation
