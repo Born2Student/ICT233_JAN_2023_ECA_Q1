@@ -3,6 +3,8 @@
 
 The dataset **titanic.csv** contains a set of on-board passengers. Each row represents one passenger with the below information in Table 1:
 
+**Perform a data analysis of the data from the titanic.csv dataset by answering the following the questions. Take note that the questions are stated in the IPYNB file. **
+
 **Objectives:**
 + Understand dataset with Data Scientist mindset.
 + Exposure to real-world dataset analysis.
@@ -13,5 +15,3 @@ and calculation operations.
 operations.
 + Conduct visualization in an appropriate way.
 + Structure code in appropriate methods (functions), looping and conditions.
-
-**Perform a data analysis of the data from the titanic.csv dataset by answering the following the questions. Take note that the questions are stated in the IPYNB file. **
