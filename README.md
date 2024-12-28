@@ -1,4 +1,7 @@
-# ICT233_JAN_2023_ECA_Q1
+# ICT233 - Data Programming
+
+# ICT233 End-of-Course Assessment (ECA01) - January Semester 2022 Question 1
+
 **ICT233 Data Programming January 2023 Semester End-Of-Course (ECA) Question 1**
 
 The dataset **titanic.csv** contains a set of on-board passengers. Each row represents one passenger with the below information in Table 1:
